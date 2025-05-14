@@ -17,16 +17,16 @@
 
 ### 💻 Portfolio
 
-- <img src="./assets/Dockit.png" alt="Dockit Icon" width="16"/> [Dockit](https://github.com/XiCheng000/Dockit)
+- <img src="./assets/Dockit.png" alt="Dockit Icon" width="16"/> [Dockit](https://github.com/XiCheng148/Dockit)
   A tool for macOS that allows you to dock any window to the edge of the screen and quickly recall it by hovering the mouse.
 
-- 🔗 [SmartPreview](https://github.com/XiCheng000/SmartPreview)
+- 🔗 [SmartPreview](https://github.com/XiCheng148/SmartPreview)
   A browser extension that allows you to preview the content of links on a webpage without opening a new tab.
 
-- 🙊 [MuteApp](https://github.com/XiCheng000/MuteApp)
+- 🙊 [MuteApp](https://github.com/XiCheng148/MuteApp)
   MuteApp is a simple tool that allows you to quickly mute/unmute the currently active window using a hotkey.
 
-- 📢 [CodeRadio](https://github.com/XiCheng000/CodeRadio)
+- 📢 [CodeRadio](https://github.com/XiCheng148/CodeRadio)
   A menu bar music radio client for [freecodecamp](https://coderadio.freecodecamp.org), written in Swift.
 
 ---
@@ -42,7 +42,7 @@ When I'm not coding, you’ll find me:
 
 ### 📊 GitHub Stats
 
-![XiCheng000's GitHub Stats](https://github-readme-stats.vercel.app/api?username=XiCheng000&theme=vue&show_icons=true&hide_title=true)
+![XiCheng148's GitHub Stats](https://github-readme-stats.vercel.app/api?username=XiCheng148&theme=vue&show_icons=true&hide_title=true)
 
 ---
 
