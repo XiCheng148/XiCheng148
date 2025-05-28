@@ -46,6 +46,10 @@ When I'm not coding, you’ll find me:
 
 ---
 
+Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/XiCheng148/count.svg)](https://github/XiCheng148) visitor, Thank You!🎉🎉
+
+---
+
 ### 🐍 Contribution Snake
 
 <picture>
