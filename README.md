@@ -31,13 +31,6 @@
 
 ---
 
-### 💡 Fun Fact
-
-When I'm not coding, you’ll find me:
-- Binge-watching dramas 🎬
-- Playing game 🎮
-- Sleeping like a log 😴
-
 ---
 
 ### 📊 GitHub Stats
@@ -49,11 +42,3 @@ When I'm not coding, you’ll find me:
 Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/XiCheng148/count.svg)](https://github/XiCheng148) visitor, Thank You!🎉🎉
 
 ---
-
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="./assets/github-contribution-grid-snake.svg">
-</picture>
